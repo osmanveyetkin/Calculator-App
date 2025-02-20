@@ -1,0 +1,10 @@
+C:\Users\osmny\source\repos\CalcAppFinal\CalcAppFinal\bin\Debug\CalcAppFinal.exe.config
+C:\Users\osmny\source\repos\CalcAppFinal\CalcAppFinal\bin\Debug\CalcAppFinal.exe
+C:\Users\osmny\source\repos\CalcAppFinal\CalcAppFinal\bin\Debug\CalcAppFinal.pdb
+C:\Users\osmny\source\repos\CalcAppFinal\CalcAppFinal\obj\Debug\CalcAppFinal.csproj.AssemblyReference.cache
+C:\Users\osmny\source\repos\CalcAppFinal\CalcAppFinal\obj\Debug\CalcAppFinal.Form1.resources
+C:\Users\osmny\source\repos\CalcAppFinal\CalcAppFinal\obj\Debug\CalcAppFinal.Properties.Resources.resources
+C:\Users\osmny\source\repos\CalcAppFinal\CalcAppFinal\obj\Debug\CalcAppFinal.csproj.GenerateResource.cache
+C:\Users\osmny\source\repos\CalcAppFinal\CalcAppFinal\obj\Debug\CalcAppFinal.csproj.CoreCompileInputs.cache
+C:\Users\osmny\source\repos\CalcAppFinal\CalcAppFinal\obj\Debug\CalcAppFinal.exe
+C:\Users\osmny\source\repos\CalcAppFinal\CalcAppFinal\obj\Debug\CalcAppFinal.pdb
